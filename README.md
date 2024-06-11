@@ -1,14 +1,14 @@
-## bem vindo ao meu perfil 🐉
+## Bem vindo ao meu perfil 🐉
 
-meu nome: biel 
+Meu nome: biel 
 
-estou estudandano alura
+Estou estudandano [alura] (https://alura.com.br)
 
-estou se deselvovendo na linguagens javascript
+Estou se deselvovendo na linguagens javascript
 
-utilizo esse espaço para minha organizaçâo e compartilhamento dos mus projetos desenvolvidos   
+Utilizo esse espaço para minha organizaçâo e compartilhamento dos mus projetos desenvolvidos   
 
-## para entrar em contado comigo
+## Para entrar em contado comigo
 
 gabrieljoses2021@gmail.com
-
+(https://media1.tenor.com/m/x3aDejIQd0sAAAAC/lula.gif)
